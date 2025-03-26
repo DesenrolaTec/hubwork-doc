@@ -1,5 +1,17 @@
 # Requisitos Não Funcionais
 
+> 📌 O que é um Requisito Não Funcional?
+> 
+> Um **requisito não funcional** define _como o sistema deve se
+> comportar_, e não o que ele faz. Ele estabelece critérios de qualidade
+> como desempenho, segurança, usabilidade, escalabilidade e
+> confiabilidade. Esses requisitos garantem que o sistema funcione de
+> forma eficiente, segura e estável, mesmo sob carga ou em cenários
+> adversos​. Embora não descrevam funcionalidades diretas, são
+> essenciais para a experiência do usuário e a sustentabilidade técnica
+> do produto.
+
+
 ## ⚡ Desempenho
 
 - O sistema deve processar e analisar grandes volumes de dados em tempo real.

@@ -1,5 +1,18 @@
 # 🧭 Estrutura de Domínios
 
+> 📌 O que é um Domínio
+> 
+> Em **Domain-Driven Design (DDD)**, um **domínio** representa uma área
+> central do conhecimento ou atividade do negócio que o sistema busca
+> resolver. Já um **subdomínio** é uma subdivisão desse domínio, com uma
+> responsabilidade mais específica dentro do contexto geral.
+> 
+> Por exemplo, no HubWork, “Recomendação & Matchmaking” é um domínio, e
+> “Sugestões personalizadas com base no histórico” é um subdomínio. Essa
+> estrutura ajuda a organizar o sistema de forma estratégica, permitindo
+> modelar cada parte de acordo com sua lógica própria, facilitando a
+> colaboração entre times e a evolução do produto.
+
 ## 🟡 Core Domains (Domínios Principais)
 
 Esses são os domínios que representam a vantagem competitiva central do HubWork. Devem receber prioridade em termos de design, tecnologia e recursos.

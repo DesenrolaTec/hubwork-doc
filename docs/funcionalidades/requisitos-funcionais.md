@@ -1,5 +1,17 @@
 # Requisitos Funcionais
 
+> 📌 O que é um Requisito Funcional?
+>
+> Um **requisito funcional** descreve *o que o sistema deve fazer*. Ele
+> define comportamentos, funcionalidades e serviços esperados do
+> sistema, a partir das necessidades dos usuários. Em outras palavras,
+> são as ações e interações que o sistema precisa oferecer para cumprir
+> seus objetivos, como "gerar recomendações de projetos", "permitir
+> buscas com filtros" ou "criar propostas com IA". Esses requisitos
+> orientam diretamente o desenvolvimento de funcionalidades que entregam
+> valor prático e mensurável.
+
+
 ## 🔁 Recomendação e Match
 
 - O sistema deve sugerir projetos que combinem com o perfil do freelancer.
