@@ -38,9 +38,8 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.4.0/mermaid.min.js
 
 # Configuração de navegação
-nav:    
-  - Home: index.md  # Página inicial com redirecionamento
-  - Visão Geral da Documentação:
+nav:      
+  - Visão Geral da Documentação: visao-geral/descricao.md
       - Descrição: visao-geral/descricao.md
       - Como Funciona: visao-geral/como-funciona.md  
 
