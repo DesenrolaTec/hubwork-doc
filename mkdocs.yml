@@ -39,19 +39,20 @@ extra_javascript:
   - https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.4.0/mermaid.min.js
 
 # Configuração de navegação
-nav:      
-  - Home: index.md
-  - Visão Geral da Documentação:
-      - Descrição: visao-geral/descricao.md
-      - Como Funciona: visao-geral/como-funciona.md  
-  - Modelo de Dominio:
-      - Glossario: modelo-dominio/glossario.md
-      - Personas: modelo-dominio/personas.md
-      - Dominios: modelo-dominio/dominios.md
-  - Modulos e Funcionalidades:
-      - Funcionalidades: funcionalidades/funcionalidades.md
-      - Requisitos Funcionais: funcionalidades/requisitos-funcionais.md
-      - Requisitos Não Funcionais: funcionalidades/requisitos-nao-funcionais.md
+nav:
+  - 🏠 Home: index.md
+  - 📖 Visão Geral da Documentação:
+      - 📌 Descrição: visao-geral/descricao.md
+      - ⚙️ Como Funciona: visao-geral/como-funciona.md  
+  - 🗂️ Modelo de Dominio:
+      - 📚 Glossario: modelo-dominio/glossario.md
+      - 👤 Personas: modelo-dominio/personas.md
+      - 🌐 Dominios: modelo-dominio/dominios.md
+  - ⚡ Modulos e Funcionalidades:
+      - 🚀 Funcionalidades: funcionalidades/funcionalidades.md
+      - ✅ Requisitos Funcionais: funcionalidades/requisitos-funcionais.md
+      - 🔧 Requisitos Não Funcionais: funcionalidades/requisitos-nao-funcionais.md
+
 
 # Configuração de Markdown
 markdown_extensions:
