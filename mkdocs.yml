@@ -52,6 +52,9 @@ nav:
       - 🚀 Funcionalidades: funcionalidades/funcionalidades.md
       - ✅ Requisitos Funcionais: funcionalidades/requisitos-funcionais.md
       - 🔧 Requisitos Não Funcionais: funcionalidades/requisitos-nao-funcionais.md
+  - 🚶Jornadas:
+      - 📅 Jornadas por Personas: jornadas/jornadas-personas.md
+      
 
 
 # Configuração de Markdown

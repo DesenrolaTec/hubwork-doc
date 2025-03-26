@@ -34,17 +34,17 @@ Explore em detalhes todas as funcionalidades disponíveis no HubWork, além dos 
 Para facilitar seu aprendizado, recomendamos seguir uma das jornadas abaixo com base no seu perfil:
 
 ### 👩‍💻 **Jornada do Freelancer:**
-1. [Explorar oportunidades e tendências](funcionalidades/funcionalidades.md#radar-de-oportunidades-emergentes)
-2. [Encontrar projetos alinhados ao seu perfil](funcionalidades/funcionalidades.md#matchmaking-automático-entre-freelancers-e-projetos)
-3. [Avaliar e analisar projetos com inteligência](funcionalidades/funcionalidades.md#análise-de-sentimento-de-contratantes)
-4. [Criar propostas automaticamente com IA](funcionalidades/funcionalidades.md#geração-automática-de-propostas)
-5. [Aprimorar sua atuação no mercado](funcionalidades/funcionalidades.md#perfil-estratégico-do-freelancer)
+1. [Explorar oportunidades e tendências](jornadas/jornadas-personas.md#1-explorar-o-mercado-e-identificar-oportunidades)
+2. [Encontrar projetos alinhados ao seu perfil](jornadas/jornadas-personas.md#2-encontrar-projetos-alinhados-ao-seu-perfil)
+3. [Avaliar e analisar projetos com inteligência](jornadas/jornadas-personas.md#3-avaliar-projetos-e-contratantes-com-inteligência)
+4. [Criar propostas automaticamente com IA](jornadas/jornadas-personas.md#4-criar-e-enviar-propostas-estratégicas)
+5. [Aprimorar sua atuação no mercado](jornadas/jornadas-personas.md#5-aprimorar-sua-atuação-no-mercado)
 
 ### 🧑‍💼 **Jornada do Contratante:**
-1. [Entender o mercado freelancer e suas tendências](funcionalidades/funcionalidades.md#relatórios-de-tendências-de-mercado)
-2. [Planejar projetos com benchmarks e dados estratégicos](funcionalidades/funcionalidades.md#análise-de-orçamento-por-tipo-de-projeto)
-3. [Buscar e avaliar profissionais com base em dados](funcionalidades/funcionalidades.md#análise-de-perfil-de-freelancers)
-4. [Ajustar estratégia de contratação ao longo do tempo](funcionalidades/funcionalidades.md#integração-com-plataformas-de-freelance)
+1. [Entender o mercado freelancer e suas tendências](jornadas/jornadas-personas.md#1-entender-o-mercado-de-freelancers)
+2. [Planejar projetos com benchmarks e dados estratégicos](jornadas/jornadas-personas.md#2-planejar-a-publicação-de-projetos-com-inteligência)
+3. [Buscar e avaliar profissionais com base em dados](jornadas/jornadas-personas.md#3-buscar-e-avaliar-profissionais)
+4. [Ajustar estratégia de contratação ao longo do tempo](jornadas/jornadas-personas.md#4-ajustar-estratégia-de-contratação-ao-longo-do-tempo)
 
 ---
 

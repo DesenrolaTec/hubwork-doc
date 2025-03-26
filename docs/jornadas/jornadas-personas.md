@@ -1,5 +1,3 @@
-# Jornadas das Personas
-
 ## Freelancer
 
 ### 1. Explorar o Mercado e Identificar Oportunidades
