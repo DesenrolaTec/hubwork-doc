@@ -1,0 +1,70 @@
+# Nome do site
+site_name: Documentação HubWork
+
+# Descrição do site (aparece nos metadados)
+site_description: Base de conhecimento do sistema HubWork
+
+# URL base do site (altere para seu GitHub Pages se necessário)
+site_url: https://tuyoshivinicius.github.io/hubwork-docs/
+
+# Nome do autor
+site_author: Tuyoshi Vinicius
+
+# Tema do site
+theme:
+  name: material  # Usa o tema moderno do Material for MkDocs
+  palette:
+    primary: deep purple  # Cor principal
+    accent: pink          # Cor de destaque
+  font:
+    text: Roboto
+    code: Roboto Mono
+  features:
+    - navigation.instant  # Carregamento instantâneo
+    - navigation.tabs     # Abas de navegação no topo
+    - navigation.expand   # Mantém as seções expandidas
+    - toc.integrate       # Integra o sumário na navegação lateral
+    - search.suggest      # Sugestões de busca automáticas
+    - search.highlight    # Destaque nos resultados da busca
+
+# Plugins do MkDocs
+plugins:
+  - search  # Habilita busca no site
+  - tags  # Permite categorização por tags
+  - table-reader  # Melhor formatação de tabelas
+  - mermaid2
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/mermaid/10.4.0/mermaid.min.js
+
+# Configuração de navegação
+nav:    
+  - Home: index.md  # Página inicial com redirecionamento
+  - Visão Geral da Documentação:
+      - Descrição: visao-geral/descricao.md
+      - Como Funciona: visao-geral/como-funciona.md  
+
+# Configuração de Markdown
+markdown_extensions:
+  - toc:
+      permalink: true
+  - attr_list  # Permite adicionar classes a elementos HTML
+  - md_in_html  # Permite HTML dentro do Markdown
+  - admonition  # Permite caixas de aviso e destaque
+  - pymdownx.highlight  # Destaque de código
+  - pymdownx.inlinehilite  # Destaque de código inline
+  - pymdownx.superfences:
+        # make exceptions to highlighting of code:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:mermaid2.fence_mermaid_custom
+  - pymdownx.details  # Suporte a seções expansíveis
+  - pymdownx.snippets
+  - pymdownx.emoji  # Suporte a emojis :smile:
+  - pymdownx.mark  # Permite destacar texto
+  - pymdownx.tasklist:
+      custom_checkbox: true  # Correção de indentação
+  - pymdownx.tabbed:
+      alternate_style: true  # Usa estilo alternativo para abas
+      
